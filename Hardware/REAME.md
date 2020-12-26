@@ -7,5 +7,5 @@ En este repo vamos a probar algun circuito de interes, la carpeta contendra, sim
 <figure>
 <center>
 <img src='https://github.com/smnar/camara_frio_calor/blob/main/Control_de_Fase_AC_(Temperatura)/Hardware/imagenes/CircuitoControlTempElectronoobs.png' alt='EESAMR34' width="500" height="300"  />
-<figcaption><i>Fig 1. Micro a programar lueguito</i></figcaption></center>
+<figcaption><i>Fig 1. Micro a programar lueguito.</i></figcaption></center>
 </figure>
