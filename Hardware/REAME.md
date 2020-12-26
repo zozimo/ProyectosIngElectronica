@@ -13,3 +13,5 @@ En este repo vamos a probar algun circuito de interes, la carpeta contendra, sim
 ## CristianZozimo
 agrego lineas desde zozimo fiuba, y veo si haciendo fetch se me cambia el archivo de smnPC
 
+Agrego nuevas palabras para probar fetch + merge y luego ver si desde la consola se puede ver las lineas cambiadas.
+
